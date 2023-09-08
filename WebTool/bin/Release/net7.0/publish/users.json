@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "66603AD7-705B-408D-AA1E-F4724E00E9FD",
+    "Name": "Admin",
+    "UserName": "admin",
+    "Email": "admin@hcl.com",
+    "Password": "12345",
+    "Role": "Admin"
+  }
+]
